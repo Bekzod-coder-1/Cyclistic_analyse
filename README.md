@@ -15,7 +15,7 @@ Die Analyse bewies klare Musterunterschiede: Casual Riders fahren **signifikant 
 | Deliverable | Beschreibung | Link |
 | :--- | :--- | :--- |
 | **Executive Presentation** | Die 7-Folien-Präsentation mit den Top-3-Empfehlungen. | [Link 'https://docs.google.com/presentation/d/1pmui61S5Jp4RmNS4sD1MZXfCPIc8xLXrA0opm4mqv-I/edit?usp=sharing' ] |
-| **R Analysis Script** | Der vollständige R-Code für Bereinigung, Analyse und Visualisierung. | [Link zur Datei `Cyclistic_analyse/Skripte_Process.R` in diesem Repo] |
+| **R Analysis Script** | Der vollständige R-Code für Bereinigung, Analyse und Visualisierung. | [Link zur Datei `https://github.com/Bekzod-coder-1/Cyclistic_analyse/blob/main/Skripte_Process.R` in diesem Repo] |
 | **Clean Data Export** | Die finale CSV/RDS-Datei der bereinigten Fahrten. | [Link zur Datei `Cyclistic_analyse/data_processed/all_trips_clean.rds` oder `summary_user_stats.csv` , `summary_day_of_week_stats.csv` and `summary_top_stations.csv`] |
 
 ---
