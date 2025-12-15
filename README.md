@@ -47,18 +47,18 @@ Die Analyse ergab drei Schlüsselunterschiede im Verhalten, die das Muster Pendl
 
 #### 📊 Finding 1: Median Ride Duration (Dauer)
 Casual Riders fahren **signifikant länger** pro Fahrt. Die Analyse des Medians eliminiert Ausreißer und beweist, dass Gelegenheitsfahrer Fahrräder für längere Entdeckungstouren nutzen.
-> *\[<img width="2400" height="1500" alt="plot_median_duration" src="https://github.com/user-attachments/assets/cca5f226-815c-49b3-ba89-bb7603b54da1" />
-\]*
+> *\<img width="2400" height="1500" alt="plot_median_duration" src="https://github.com/user-attachments/assets/cca5f226-815c-49b3-ba89-bb7603b54da1" />
+*
 
 #### 🗓️ Finding 2: Day of Week Pattern (Zeitpunkt)
 Mitglieder nutzen das System hauptsächlich an Wochentagen (Pendlerverhalten), während Gelegenheitsfahrer am **Wochenende** die höchsten Nutzungszahlen aufweisen.
-> *\[<img width="3000" height="1800" alt="plot_day_pattern" src="https://github.com/user-attachments/assets/f6bdecb7-9674-4617-b904-30fa793bb249" />
-\]*
+> *\<img width="3000" height="1800" alt="plot_day_pattern" src="https://github.com/user-attachments/assets/f6bdecb7-9674-4617-b904-30fa793bb249" />
+*
 
 #### 🗺️ Finding 3: Top Station Locations (Ort)
 Die Top 10 Startstationen der Casual Riders liegen konsistent an **touristischen Orten** (Parks, Seen), im Gegensatz zu den Member-Stationen, die sich in Transit- und Geschäftszentren befinden.
-> *\[<img width="3600" height="2100" alt="plot_top_stations" src="https://github.com/user-attachments/assets/77405d22-9130-4516-9901-69dff7965cb0" />
-\]*
+> *\<img width="3600" height="2100" alt="plot_top_stations" src="https://github.com/user-attachments/assets/77405d22-9130-4516-9901-69dff7965cb0" />
+*
 
 ### 5. Act (Top 3 Handlungsempfehlungen)
 
