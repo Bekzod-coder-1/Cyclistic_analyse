@@ -47,8 +47,8 @@ Die Analyse ergab drei Schlüsselunterschiede im Verhalten, die das Muster Pendl
 
 #### 📊 Finding 1: Median Ride Duration (Dauer)
 Casual Riders fahren **signifikant länger** pro Fahrt. Die Analyse des Medians eliminiert Ausreißer und beweist, dass Gelegenheitsfahrer Fahrräder für längere Entdeckungstouren nutzen.
-> *\<img width="2400" height="1500" alt="plot_median_duration" src="https://github.com/user-attachments/assets/cca5f226-815c-49b3-ba89-bb7603b54da1" />
-*
+> *\[<img width="2400" height="1500" alt="plot_median_duration" src="https://github.com/user-attachments/assets/cca5f226-815c-49b3-ba89-bb7603b54da1" />
+/]*
 
 #### 🗓️ Finding 2: Day of Week Pattern (Zeitpunkt)
 Mitglieder nutzen das System hauptsächlich an Wochentagen (Pendlerverhalten), während Gelegenheitsfahrer am **Wochenende** die höchsten Nutzungszahlen aufweisen.
